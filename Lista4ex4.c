@@ -27,7 +27,7 @@ int main() {
     C[z] = A[z];
     }
     else{
-    C[z] = B[z];
+    C[z] = B[z-5];
     }
     }
     
