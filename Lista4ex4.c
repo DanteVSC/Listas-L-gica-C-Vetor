@@ -29,6 +29,7 @@ int main() {
     else{
     C[z] = B[z];
     }
+    z++;
     }
     
     int i;
